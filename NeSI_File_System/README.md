@@ -3,3 +3,7 @@
 1. Access `/nesi/projet/uoa03265` from file explorer
 
  <br><p align="center"><img src="../img/project_via_explorer.png" alt="drawing" size="100"/></p>
+
+2. Access `/nesi/projet/uoa03265` from Terminal
+
+ <br><p align="center"><img src="../img/access_project_from_Terminal.png" alt="drawing" size="100"/></p>
