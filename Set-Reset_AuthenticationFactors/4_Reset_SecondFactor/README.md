@@ -1,1 +1,1 @@
-<img src="/img/2022_2faReset.png" alt="drawing" width="800"/></p>
+<img src="/img/2022_2faReset.png" alt="drawing" width="900"/></p>
