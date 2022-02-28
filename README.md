@@ -10,6 +10,6 @@ Login and troubleshooting instructions for NeSI Jupyter Services.
 
 <p align="center"><br><img src="/img/2022_server_options.png" alt="drawing" width="700"/></p></p>
 
-4. <p>Jupyter Launcher screen
+4. <p>JupyterHub home (Launcher) page
 
  <br><p align="center"><img src="/img/2022_JupyterHUB.png" alt="drawing" size="700"/></p></p>
