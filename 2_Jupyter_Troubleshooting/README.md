@@ -20,7 +20,9 @@
 <p align="center"><img src="/img/daskServerandServerNotrunning.png" alt="drawing" width="1000"/></p>
 
 
-2. If you are to encouter either of those errors or someting similar, Click `Hub Control Panel` under `File`
+2. If you are to encouter either of those errors or someting similar,
+    * First click `Dismiss` button and see whether it will allow you to continue on the active session, if *NOT*
+    * Click `Hub Control Panel` under `File`
 
 <p align="center"><img src="/img/HubControlPanel.png" alt="drawing" width="800"/></p>
 
