@@ -1,4 +1,4 @@
-# BIOSCI701-NeSI_Jupyter_Login
+# BIOSCI 701-NeSI Jupyter_Login
 Login and troubleshooting instructions for NeSI Jupyter Services. 
 
 1. Follow https://jupyter.nesi.org.nz/hub/login
