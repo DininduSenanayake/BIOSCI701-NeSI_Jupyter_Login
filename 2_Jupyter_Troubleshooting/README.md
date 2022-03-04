@@ -29,4 +29,4 @@
 
 3. Then click `Stop My server` , wait for `Server Not Running` page and then click on `Launch Sever` to restart the launch
 
->If and when the above method is not working, 
+>If and when the above method is not working, first check https://status.nesi.org.nz/ for any systemwide issues. If nothing is reported, submit a query 
