@@ -28,3 +28,5 @@
 
 
 3. Then click `Stop My server` , wait for `Server Not Running` page and then click on `Launch Sever` to restart the launch
+
+>If and when the above method is not working, 
