@@ -1,4 +1,5 @@
->Accessing NeSI HPC services via following method is not required for this course
+>Accessing NeSI HPC services via following method is not required for this course but we encouarge you to understand the process Or try it your self
+
 <p align="center"><img  src="/img/local_lander_mahuika.png" alt="drawing" width="1100"/></p>
 
 1. Type `ssh myusername@lander.nesi.org.nz` on yout local terminal (replace `myusername` with your **NeSI username**). 
