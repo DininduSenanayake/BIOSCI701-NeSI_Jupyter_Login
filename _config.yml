@@ -1,7 +1,8 @@
-title: Otago Carpentries
-email: carpentries@otago.ac.nz
-baseurl: ""
-url: "https://otagocarpentries.github.io/"
 theme: jekyll-theme-leap-day
 
+title: "BIOSCI701 (UoA) NeSI Info. "
+description: "BIOSCI701 (UoA) NeSI Info."
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
