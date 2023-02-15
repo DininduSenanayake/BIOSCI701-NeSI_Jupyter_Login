@@ -24,12 +24,12 @@ theme:
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode
-    primary: indigo
+    primary: black
 
   # Palette toggle for light mode
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: indigo
+    primary: black
 
 
     toggle:
@@ -42,7 +42,7 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference
-    primary: indigo
+    primary: black
   
   features:
     - navigation.tracking
