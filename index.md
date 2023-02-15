@@ -1,2 +1,0 @@
-# BIOSCI701 (UoA) NeSI Info.
-
