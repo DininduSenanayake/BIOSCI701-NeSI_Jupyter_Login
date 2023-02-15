@@ -11,8 +11,8 @@ repo_url: https://github.com/DininduSenanayake/BIOSCI701-NeSI_Jupyter_Login
 
 theme:
   name: material
-  logo: ./figures/ga_logo_blacksquare.jpg
-  favicon: ./figures/ga_logo_blacksquare.jpg
+  logo: ./images/NeSI_Logo-Icon_white.png
+  favicon: ./images/NeSI_Logo-Icon_white.png
    # 404 page
   static_templates:
     - 404.html
