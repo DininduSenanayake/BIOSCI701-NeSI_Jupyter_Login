@@ -17,7 +17,9 @@
      4. <p>Once logged in, click the **Terminal** tile/icon to make sure a terminal session can be launched without any issues
 
           <br><center>![image](images/terminal_icon.png)</center>
- 
+
+ - - - 
+ - - - 
 
 ??? info "S.1.2 : Set NeSI HPC Password"
      
