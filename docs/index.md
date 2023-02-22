@@ -1,6 +1,4 @@
-<center>
-# <b>BIOSCI701 : NeSI Setup</b> 
-</center>
+# BIOSCI701 : NeSI Setup
 
 ??? jupyter "S.1.1 : NeSI Mahuika Jupyter login"
 
