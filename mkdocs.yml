@@ -49,9 +49,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-#    - toc.integrate
-    - navigation.tabs
-    - navigation.tabs.sticky
+
     
 
   # Necessary for search to work properly
