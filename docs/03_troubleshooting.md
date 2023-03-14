@@ -11,11 +11,11 @@ If we attempt to open a large file such as **.fastq** file via Jupyter file expl
 !!! success "Solution"
 
     * Click   <KBD>File</KBD> **>** <KBD>Hub Control Panel</KBD> from Jupyter Menu
-    * Click <KBD>Step My Server</KBD> and then <KBD>Start My Server</KBD>
+    * Click <KBD>Stop My Server</KBD> and then <KBD>Start My Server</KBD>
     * Open a new server session with **4cpus** and **16GB** of memory (or **32GB** but 16 should be enough)
 
     <center>
     ![image](./images/16g4c.png)
     </center>
-    
+
     * Then close any of the applications or open files within Jupyter
