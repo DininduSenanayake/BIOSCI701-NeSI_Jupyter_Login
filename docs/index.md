@@ -2,6 +2,8 @@
 
 ## 1. Setup Password and Second factor token 
 
+* This is done via https://my.nesi.org.nz/login
+
 ??? info "S.1.1 : Set NeSI HPC Password"
      
      1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and set your **NeSI HPC password** as below
