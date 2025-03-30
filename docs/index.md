@@ -1,6 +1,27 @@
 # BIOSCI701 : NeSI Setup
 
-??? jupyter "S.1.1 : NeSI Mahuika Jupyter login"
+## 1. Setup Password and Second factor token 
+
+??? info "S.1.1 : Set NeSI HPC Password"
+     
+     1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and set your **NeSI HPC password** as below
+
+
+     <br>![image](images/SetPassword.png){width="1200"}
+
+
+??? info "S.1.2 : Set NeSI HPC Second Factor"
+
+     1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and set your **NeSI HPC Second factor** as below
+
+     <br>![image](images/new_Set2FA.png){width="1000"}
+
+
+_ _ _ 
+
+## 2. Log into Jupyterhub with above credentials 
+
+??? jupyter "S.2.1 : NeSI Mahuika Jupyter login"
 
 
      1. <p>Follow [https://jupyter.nesi.org.nz/hub/login](https://jupyter.nesi.org.nz/hub/login)</p>
@@ -19,26 +40,15 @@
  - - - 
  - - - 
 
-??? info "S.1.2 : Set NeSI HPC Password"
-     
-     1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and set your **NeSI HPC password** as below
+## 3.Forgot password or having trouble with login : Reset anytime via my.nesi.org.nz
 
-
-     <br>![image](images/SetPassword.png){width="1200"}
-
-??? info "S.1.3 : Set NeSI HPC Second Factor"
-
-     1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and set your **NeSI HPC Second factor** as below
-
-     <br>![image](images/new_Set2FA.png){width="1000"}
-
-??? backward "S.1.4 : _Reset_ NeSI HPC Password"
+??? backward "S.3.1 : _Reset_ NeSI HPC Password"
 
      1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and Reset your **NeSI HPC Second factor** as below
 
      <br>![image](images/newResetPassword.png){width="1000"}
 
-??? backward "S.1.5 : _Reset_ NeSI HPC Second Factor"
+??? backward "S.3.2 : _Reset_ NeSI HPC Second Factor"
 
      1. Log into [mynesi portal](https://my.nesi.org.nz) with your Institutional credentials (OR Tuakiri Virtual Home) and Reset your **NeSI HPC Second factor** as below
 

@@ -136,7 +136,7 @@
 }
 .md-typeset .backward > .admonition-title,
 .md-typeset .backward > summary {
-  background-color: rgba(216,191,216);
+  background-color: rgb(250, 232, 183);
 }
 .md-typeset .backward > .admonition-title::before,
 .md-typeset .backward > summary::before {
